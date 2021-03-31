@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MyAsp.Core/1.0.0": {
+        "runtime": {
+          "MyAsp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAsp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

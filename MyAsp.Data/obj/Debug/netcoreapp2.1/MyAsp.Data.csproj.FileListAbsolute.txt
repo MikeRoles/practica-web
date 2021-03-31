@@ -1,0 +1,12 @@
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\bin\Debug\netcoreapp2.1\MyAsp.Data.deps.json
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\bin\Debug\netcoreapp2.1\MyAsp.Data.dll
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\bin\Debug\netcoreapp2.1\MyAsp.Data.pdb
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\bin\Debug\netcoreapp2.1\MyAsp.Core.dll
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\bin\Debug\netcoreapp2.1\MyAsp.Core.pdb
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.csprojAssemblyReference.cache
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.AssemblyInfoInputs.cache
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.AssemblyInfo.cs
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.csproj.CoreCompileInputs.cache
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.csproj.CopyComplete
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.dll
+C:\Users\m_ang\source\repos\MyAsp\MyAsp.Data\obj\Debug\netcoreapp2.1\MyAsp.Data.pdb
